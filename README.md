@@ -4,6 +4,6 @@
 # 01_expressions - https://colab.research.google.com/drive/1Qk2J9Aq9LZbWwEsMhRQTcwdfl0vpcJhJ#scrollTo=DXNA8bfKpRPZ
 # 02_lists - https://colab.research.google.com/drive/1prOFFthrGyszMIarDUKb0TAcNNE2_-DC#scrollTo=c7BL6ny2cSU9
 # 03_if_statements -https://colab.research.google.com/drive/19iL9qnjbxQ9VPH1Ji4RmQ_oX0RejkSYC#scrollTo=AYDDF7c0eccR
-# 04_dictionaries -
+# 04_dictionaries - https://colab.research.google.com/drive/1FviBWSnmTPfJfcU8H9R-8y4F2UoWQVzZ#scrollTo=wJK79tlrUbkc
 
 # 05_loops_control_flow -
